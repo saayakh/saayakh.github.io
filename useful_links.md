@@ -15,6 +15,6 @@ Check the [Wiki article](https://en.wikipedia.org/wiki/How_to_Solve_It) as well.
 1. [Obsidian](https://obsidian.md/)\
    A great note taking platform with "wikilinks" feature. Enormous list of plugins available.
 
-2. [Inkscape](https://inkscape.org/)/
+2. [Inkscape](https://inkscape.org/)\
    A free and great alternative to Adobe Illustrator!
    
