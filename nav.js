@@ -7,6 +7,7 @@ function generateNav() {
         <a href="research.html">Research</a>
         <a href="publications.html">Publications</a>
         <a href="bookshelf.html">Bookshelf</a>
+        <a href="useful_links.html">Useful Links</a>
     `;
 
     // 2. Inject this HTML into the <nav> tag
