@@ -41,7 +41,7 @@ Guwahati, India
 * **Advisor:** Prof. Bhisma Patel
 * **Project:** Organocatalytic thiocyanation and acylation of oxiranes.
 
-**Indian Institute of Technology, Kharagpur* (2014)\
+*Indian Institute of Technology, Kharagpur* (2014)\
 Kharagpur, India
 * **Advisor:** Prof. Dipak Mal
 * **Project:** Exploring new methods for the synthesis of thiophthalides.
