@@ -6,7 +6,6 @@ function generateNav() {
         <a href="index.html">Home</a>
         <a href="research.html">Research</a>
         <a href="publications.html">Publications</a>
-        <a href="SH_CV.pdf" target="_blank">CV (PDF)</a>
         <a href="bookshelf.html">Bookshelf</a>
     `;
 
