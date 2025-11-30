@@ -1,58 +1,54 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Saayak Halder, Ph.D. — Research Portfolio</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saayak Halder, Ph.D. | Home</title>
+    
+    <link rel="stylesheet" href="style.css">
+    
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
 
-  <header>
-    <h1>Saayak Halder, Ph.D.</h1>
-    <p>Medicinal Chemistry | Pharmacology | Chemical Biology | Drug Discovery</p>
-    <nav>
-      <a href="index.html" class="active">Home</a> |
-      <a href="about.html">About</a> |
-      <a href="publications.html">Publications</a>
-    </nav>
-  </header>
+    <header>
+        <h1>Saayak Halder, Ph.D.</h1>
+        <p class="subtitle">Medicinal Chemistry | Pharmacology | Chemical Biology</p>
+        
+        <nav>
+            <a href="index.html" class="active">Home</a>
+            <a href="research.html">Research</a>
+            <a href="publications.html">Publications</a>
+            <a href="SH_CV.pdf" target="_blank">CV (PDF)</a>
+        </nav>
+    </header>
 
-  <div class="container">
-    
-    <section class="card">
-      <h2>Welcome</h2>
-      <p>
-        I am a Ph.D. chemist with postdoctoral training and extensive experience in organic chemistry and drug discovery.
-        [cite_start]My work focuses on solving complex scientific problems at the intersection of chemistry and pharmacology[cite: 9, 11].
-      </p>
-      <p>
-        [cite_start]Currently, I am working as an Independent Consultant while driving the completion of several manuscripts from my postdoctoral research[cite: 22, 26].
-      </p>
-    </section>
+    <main class="container">
+        <div id="markdown-content" class="card">
+            Loading profile...
+        </div>
+    </main>
 
-    <section class="card">
-      <h2>Highlights</h2>
-      <ul>
-        [cite_start]<li><strong>Expertise:</strong> Multi-step synthesis, SAR studies, and molecular docking[cite: 10].</li>
-        [cite_start]<li><strong>Research:</strong> Proteasomal activity modulation and chaperone-mediated autophagy[cite: 31, 34].</li>
-        <li><strong>Latest Work:</strong> See my full list of <a href="publications.html">publications here</a>.</li>
-      </ul>
-    </section>
-
-    <section class="card">
-      <h2>Contact</h2>
-      <p>
-        [cite_start]<a href="mailto:saayakhalder@gmail.com">saayakhalder@gmail.com</a> [cite: 4]<br>
-        <a href="#">LinkedIn</a> | <a href="#">Google Scholar</a> | <a href="#">ORCID</a>
-      </p>
-    </section>
-
-  </div>
-
-  <footer>
-    <p>&copy; 2025 Saayak Halder. Built with GitHub Pages.</p>
-  </footer>
+    <script>
+        // This script fetches your 'home.md' file
+        fetch('home.md')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("HTTP error " + response.status);
+                }
+                return response.text();
+            })
+            .then(text => {
+                // Converts the Markdown text into HTML and puts it on the page
+                document.getElementById('markdown-content').innerHTML = marked.parse(text);
+            })
+            .catch(error => {
+                document.getElementById('markdown-content').innerHTML = 
+                "<p>Error loading profile. Please ensure <b>home.md</b> exists in your repository.</p>";
+            });
+    </script>
 
 </body>
 </html>
