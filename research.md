@@ -1,18 +1,16 @@
 # Research Experience
 
 ### Postdoctoral Research
-*Albert Einstein College of Medicine*
+*Albert Einstein College of Medicine* (Oct 2023 – Oct 2024)\
 Bronx, NY
-*(Oct 2023 – Oct 2024)*
 * **Advisors:** Prof. Ana Maria Cuervo and Prof. Evripidis Gavathiotis
 * **Project:** Exploring new pharmacological strategies to rescue chaperone-mediated autophagy in Parkinson’s disease.
 
 ---
 
 ### Ph.D. research
-Purdue University
+*Purdue University* (Aug 2017 – Aug 2023)\
 West Lafayette, IN
-*(Aug 2017 – Aug 2023)*
 * **Advisors:** Prof. Darci Trader & Prof. Zhong-Yin Zhang
 * **Thesis:** Chemical biology approaches to modulate proteasomal activity.
 * Mentored three graduate students and served as a mentor for first-year Ph.D. students.
@@ -20,24 +18,29 @@ West Lafayette, IN
 ---
 
 ### Junior Research Fellow
-**Tata Institute of Fundamental Research** (Hyderabad, India)
-*(Aug 2016 – Jun 2017)*
+*Tata Institute of Fundamental Research* (Aug 2016 – Jun 2017)\
+Hyderabad, India
 * **Advisor:** Prof. Vipin Agarwal
 * **Project:** Biophysical chemistry of α-synuclein oligomerization/aggregation using solution and solid-phase NMR.
 
 ---
 
-### Master's Thesis Researcher
-**Indian Institute of Technology** (Kanpur, India)
-*(Jan 2016 – Apr 2016)*
+### Master's Thesis Research
+*Indian Institute of Technology, Kanpur* (Jan 2016 – Apr 2016)\
+Kanpur, India
 * **Advisor:** Prof. R. Ramapanicker
 * **Thesis:** Diastereoselective total synthesis of Castanospermine derivatives using proline-catalyzed asymmetric amination of aldehydes.
 
 ---
 
-### Summer Research Intern
-**Indian Institute of Technology** (Guwahati, India) *(2015)*
+### Summer Research Internship
+
+*Indian Institute of Technology, Guwahati* (2015)\
+Guwahati, India
+* **Advisor:** Prof. Bhisma Patel
 * **Project:** Organocatalytic thiocyanation and acylation of oxiranes.
 
-**Indian Institute of Technology** (Kharagpur, India) *(2014)*
+**Indian Institute of Technology, Kharagpur* (2014)\
+Kharagpur, India
+* **Advisor:** Prof. Dipak Mal
 * **Project:** Exploring new methods for the synthesis of thiophthalides.
