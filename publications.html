@@ -1,68 +1,35 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Publications — Saayak Halder, Ph.D.</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications | Saayak Halder, Ph.D.</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
+    <header>
+        <h1>Saayak Halder, Ph.D.</h1>
+        <p class="subtitle">Medicinal Chemistry | Pharmacology | Chemical Biology</p>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="research.html">Research</a>
+            <a href="publications.html" class="active">Publications</a>
+            <a href="SH_CV.pdf" target="_blank">CV (PDF)</a>
+        </nav>
+    </header>
 
-  <header>
-    <h1>Publications & Presentations</h1>
-    <nav>
-      <a href="index.html">Home</a> |
-      <a href="about.html">About</a> |
-      <a href="publications.html" class="active">Publications</a>
-    </nav>
-  </header>
+    <main class="container">
+        <div id="markdown-content" class="card">Loading publications...</div>
+    </main>
 
-  <div class="container">
-    
-    <section class="card">
-      <h2>Journal Publications</h2>
-      <ul>
-        <li>
-          Halder, S., Loy, C., Trader, D.J. "Synthesis and Application of a Versatile Immunoproteasome Activity Probe" <em>ChemBioChem</em>. [cite_start]2024, e202400571[cite: 101].
-        </li>
-        <li>
-          Halder, S., Macatangay, N.J., Zerfas, B.L., Salazar-Chaparro, A.F., Trader, D.J. "Oleic Acid Amide Derivatives as Small Molecule Stimulators of the Human Proteasome’s Core Particle" <em>RSC Med. [cite_start]Chem.</em>, 2022, 13, 1077-1081[cite: 103].
-        </li>
-        <li>
-          [cite_start]Salazar-Chaparro, A. F., Halder, S., Trader, D. J. "Synthesis and Application of a Clickable Epoxomicin-Based Probe for Proteasome Activity Analysis" <em>Current Protocols</em> 2022, 2 (7), e490[cite: 105].
-        </li>
-        <li>
-          [cite_start]Salazar-Chaparro, A. F., Halder, S., Maresh, M. E., Trader, D. J. "Solid-Phase Synthesis and Application of a Clickable Version of Epoxomicin for Proteasome Activity Analysis" <em>ChemBioChem</em>, 2022, 23 (7), e202100710[cite: 106].
-        </li>
-        <li>
-          Raffa, N., Won, T. H., Sukowaty A., Candor, K., Cui, C., Halder, S., et al. [cite_start]"Dual-purpose isocyanides produced by Aspergillus fumigatus contribute to cellular copper sufficiency and exhibit antimicrobial activity" <em>PNAS</em>, 2021, 118 (8) e2015224118[cite: 107].
-        </li>
-        <li>
-           Kumar, R., Das, S., Mohite, G. M., Rout, S. K., Halder, S., et al. "Cytotoxic oligomers and fibrils trapped in a gel-like state of a-synuclein assemblies" <em>Angew. Chem. Int. [cite_start]Ed.</em> 2018, 57, 5262-5266[cite: 109].
-        </li>
-      </ul>
-    </section>
-
-    <section class="card">
-      <h2>Selected Presentations</h2>
-      <ul>
-        <li>
-            <strong>H. [cite_start]C. Brown Symposium</strong> (2023) - Poster: "Synthesis and application of bifunctional molecules to stimulate the 20S proteasome." [cite: 114, 115]
-        </li>
-        <li>
-            [cite_start]<strong>ACS Spring National Meeting</strong> (2023) - Poster: "Synthesis and application of bifunctional molecules to stimulate the 20S proteasome." [cite: 116, 117]
-        </li>
-        <li>
-            [cite_start]<strong>IIT Kanpur Annual Graduate Chemistry Symposium</strong> (2016) - Oral Presentation: "Diastereoselective total synthesis of Castanospermine derivatives." [cite: 122, 123]
-        </li>
-      </ul>
-    </section>
-
-  </div>
-
-  <footer>
-    <p>&copy; 2025 Saayak Halder. Built with GitHub Pages.</p>
-  </footer>
-
+    <script>
+        fetch('publications.md')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('markdown-content').innerHTML = marked.parse(text);
+            });
+    </script>
 </body>
 </html>
