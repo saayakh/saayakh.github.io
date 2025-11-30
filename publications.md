@@ -8,6 +8,6 @@
 
 (3) Salazar-Chaparro, A. F.; **Halder, S.**; Maresh, M. E.; Trader, D. J. (2022). Solid-Phase Synthesis and Application of a Clickable Version of Epoxomicin for Proteasome Activity Analysis. [*ChemBioChem*, 23(7), e202100710](https://doi.org/10.1002/cbic.202100710).
 
-(2) Raffa, N.; Won, T. H.; Sukowaty A.; Candor, K.; Cui, C.; **Halder, S.**; Dai, M.; Figueroa, J. A. L.; Schroeder, F. C.; Keller, N. P. (2021). Dual-purpose isocyanides produced by *Aspergillus fumigatus* contribute to cellular copper sufficiency and exhibit antimicrobial activity. [*PNAS*, 118(8), e2015224118]({https://www.pnas.org/doi/abs/10.1073/pnas.2015224118).
+(2) Raffa, N.; Won, T. H.; Sukowaty A.; Candor, K.; Cui, C.; **Halder, S.**; Dai, M.; Figueroa, J. A. L.; Schroeder, F. C.; Keller, N. P. (2021). Dual-purpose isocyanides produced by *Aspergillus fumigatus* contribute to cellular copper sufficiency and exhibit antimicrobial activity. [*PNAS*, 118(8), e2015224118](https://www.pnas.org/doi/abs/10.1073/pnas.2015224118).
 
 (1) Kumar, R.; Das, S.; Mohite, G. M.; Rout, S. K.; **Halder, S.**; Jha, N. N.; Ray, S.; Mehra, S.; Agarwal, V.; Maji, S. K. (2018). Cytotoxic oligomers and fibrils trapped in a gel-like state of α-synuclein assemblies. [*Angew. Chem. Int. Ed.*, 57, 5262-5266](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201711854).
