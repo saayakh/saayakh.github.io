@@ -1,18 +1,15 @@
-![Saayak Halder](profile.jpg)
-
 ### About Me
 
 I am a Ph.D. chemist with postdoctoral training and extensive experience in **organic chemistry, medicinal chemistry, pharmacology, chemical biology, and drug discovery**. 
-
-Currently, I work as an **Independent Consultant** at Handshake AI Solutions, LLC, while driving the completion of several manuscripts from my postdoctoral research. My expertise lies in designing and executing multi-step syntheses of small molecules, conducting SAR studies, and applying computational tools to guide drug development.
 
 Previously, I was a **Postdoctoral Research Fellow** at Albert Einstein College of Medicine (Bronx, NY) and a **Graduate Research Assistant** at Purdue University.
 
 ### Contact
 
-**Saayak Halder, Ph.D.** *Medicinal Chemistry | Pharmacology | Chemical Biology* [saayakhalder@gmail.com](mailto:saayakhalder@gmail.com)
+**Saayak Halder, Ph.D.**\
+[saayakhalder@gmail.com](mailto:saayakhalder@gmail.com)
 
-[Google Scholar](#) | [LinkedIn](#) | [ORCID](#)
+[Google Scholar](https://scholar.google.com/citations?user=GRUIgfMAAAAJ&hl=en&inst=5549692440350501774) | [LinkedIn](https://www.linkedin.com/in/saayak-halder/)
 
 ---
 
