@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookshelf | Saayak Halder, Ph.D.</title>
+    
+    <link rel="stylesheet" href="style.css">
+    
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    <header>
+        <h1>Saayak Halder, Ph.D.</h1>
+        <p class="subtitle">Medicinal Chemistry | Pharmacology | Chemical Biology</p>
+        
+        <nav></nav>
+    </header>
+
+    <main class="container">
+        <section class="card">
+            <div id="markdown-content">Loading bookshelf...</div>
+        </section>
+    </main>
+
+    <script src="nav.js"></script>
+
+    <script>
+        fetch('bookshelf.md')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("HTTP error " + response.status);
+                }
+                return response.text();
+            })
+            .then(text => {
+                document.getElementById('markdown-content').innerHTML = marked.parse(text);
+            })
+            .catch(error => {
+                document.getElementById('markdown-content').innerHTML = 
+                "<p>Error loading bookshelf. Please ensure 'bookshelf.md' exists.</p>";
+            });
+    </script>
+
+</body>
+</html>
