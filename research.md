@@ -13,7 +13,6 @@ Bronx, NY
 West Lafayette, IN
 * **Advisors:** Prof. Darci Trader & Prof. Zhong-Yin Zhang
 * **Thesis:** Chemical biology approaches to modulate proteasomal activity.
-* Mentored three graduate students and served as a mentor for first-year Ph.D. students.
 
 ---
 
@@ -22,6 +21,7 @@ West Lafayette, IN
 Hyderabad, India
 * **Advisor:** Prof. Vipin Agarwal
 * **Project:** Biophysical chemistry of α-synuclein oligomerization/aggregation using solution and solid-phase NMR.
+  Check out our [publication from this project](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201711854)
 
 ---
 
