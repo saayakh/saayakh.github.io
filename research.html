@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research | Saayak Halder, Ph.D.</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1>Saayak Halder, Ph.D.</h1>
+        <p class="subtitle">Medicinal Chemistry | Pharmacology | Chemical Biology</p>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="research.html" class="active">Research</a>
+            <a href="publications.html">Publications</a>
+            <a href="SH_CV.pdf" target="_blank">CV (PDF)</a>
+        </nav>
+    </header>
+  <main class="container">
+    <section class="card">
+        <div id="markdown-content">Loading research...</div>
+    </section>
+</main>
+
+    <script>
+        fetch('research.md')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('markdown-content').innerHTML = marked.parse(text);
+            });
+    </script>
+</body>
+</html>
