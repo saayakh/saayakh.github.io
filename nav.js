@@ -7,6 +7,7 @@ function generateNav() {
         <a href="research.html">Research</a>
         <a href="publications.html">Publications</a>
         <a href="SH_CV.pdf" target="_blank">CV (PDF)</a>
+        <a href="bookshelf.html">Bookshelf</a>
     `;
 
     // 2. Inject this HTML into the <nav> tag
