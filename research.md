@@ -21,7 +21,8 @@ West Lafayette, IN
 Hyderabad, India
 * **Advisor:** Prof. Vipin Agarwal
 * **Project:** Biophysical chemistry of α-synuclein oligomerization/aggregation using solution and solid-phase NMR.
-  Check out our [publication from this project](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201711854)
+
+Check out our [publication from this project](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201711854)
 
 ---
 
