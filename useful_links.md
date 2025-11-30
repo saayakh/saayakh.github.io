@@ -1,4 +1,5 @@
 ### Medicinal Chemistry
+1. [Njardarson group's posters](https://sites.arizona.edu/njardarson-lab/top200-posters/)
 
 ### Computational Drug Discovery
 
