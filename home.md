@@ -15,9 +15,12 @@ Previously, I was a **Postdoctoral Research Fellow** at Albert Einstein College 
 
 ## Education
 
-**Ph.D. in Chemistry (2023)** Purdue University, West Lafayette, IN  
+**Ph.D. in Chemistry (2023)**\
+Purdue University, West Lafayette, IN\
 *Thesis: Chemical biology approaches to modulate proteasomal activity.*
 
-**M.Sc. in Chemistry (2016)** Indian Institute of Technology Kanpur, India
+**M.Sc. in Chemistry (2016)**\
+Indian Institute of Technology Kanpur, India
 
-**B.Sc. in Chemistry (2014)** Ramakrishna Mission Vidyamandira, Belur, WB, India
+**B.Sc. in Chemistry (2014)**\
+Ramakrishna Mission Vidyamandira, Belur, WB, India
