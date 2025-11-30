@@ -1,7 +1,7 @@
-### Medicinal Chemistry
-1. [Njardarson group's posters](https://sites.arizona.edu/njardarson-lab/top200-posters/)
+This sections contains books, links, or resources that I have found helpful. I this mostly for my own "bookkeeping".
 
-### Computational Drug Discovery
+## Medicinal Chemistry
+1. [Njardarson group's posters](https://sites.arizona.edu/njardarson-lab/top200-posters/)
 
 ## Scientific Writing
 1. [Purdue OWL](https://owl.purdue.edu/owl/index.html)\
