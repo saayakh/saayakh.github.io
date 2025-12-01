@@ -183,7 +183,7 @@ details {
 summary {
     cursor: pointer;
     font-weight: bold;
-    color: var(--primary-color);
+    color: #202020;
     list-style: none; /* Hides default triangle in some browsers */
     display: flex;
     align-items: center;
