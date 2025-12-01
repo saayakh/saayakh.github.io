@@ -1,23 +1,9 @@
-### About Me
+## About Me
 
 I am a Ph.D. chemist with postdoctoral training and extensive experience in **organic chemistry, medicinal chemistry, pharmacology, chemical biology, and drug discovery**. 
 
 Previously, I was a **Postdoctoral Research Fellow** at Albert Einstein College of Medicine (Bronx, NY) and a **Graduate Research Assistant** at Purdue University.
 
-##
-
-<div class="social-icons">
-    <a href="https://www.linkedin.com/in/saayak-halder/" target="_blank" title="LinkedIn">
-        <i class="fab fa-linkedin"></i>
-    </a>
-    <a href="https://scholar.google.com/citations?user=GRUIgfMAAAAJ&hl=en&inst=5549692440350501774" target="_blank" title="Google Scholar">
-        <i class="fas fa-graduation-cap"></i>
-    </a>
-    <a href="mailto:saayakhalder@gmail.com" title="Email Me">
-        <i class="fas fa-envelope"></i>
-    </a>
-</div>
----
 
 ## Education
 
