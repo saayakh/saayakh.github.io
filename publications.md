@@ -1,4 +1,4 @@
-# Publications
+## Publications
 
 (6) **Halder, S.**; Loy, C.; Trader, D.J. (2024). Synthesis and Application of a Versatile Immunoproteasome Activity Probe. [*ChemBioChem*, e202400571](https://doi.org/10.1002/cbic.202400571).
 
