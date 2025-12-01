@@ -33,14 +33,12 @@ function addHeaderIcons() {
     // Define your icons here
     const iconHTML = `
         <div class="header-icons">
-            <a href="YOUR_LINKEDIN_URL" target="_blank" title="LinkedIn">
+            <a href="https://www.linkedin.com/in/saayak-halder/" target="_blank" title="LinkedIn">
                 <i class="fab fa-linkedin"></i>
             </a>
-            
-            <a href="YOUR_SCHOLAR_URL" target="_blank" title="Google Scholar">
+            <a href="https://scholar.google.com/citations?user=GRUIgfMAAAAJ&hl=en&inst=5549692440350501774" target="_blank" title="Google Scholar">
                 <i class="fas fa-graduation-cap"></i>
             </a>
-            
             <a href="mailto:saayakhalder@gmail.com" title="Email Me">
                 <i class="fas fa-envelope"></i>
             </a>
