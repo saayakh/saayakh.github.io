@@ -3,8 +3,9 @@
 
 ### Postdoctoral Research Fellow
 <div class="job-header">
-  <span><strong>Albert Einstein College of Medicine</strong> Bronx, NY</span>
+  <span><strong>Albert Einstein College of Medicine</strong></span>
   <span class="date">Oct 2023 – Oct 2024</span>
+  <br>Bronx, NY</br>
 </div>
 
 **Advisors:** Prof. Ana Maria Cuervo and Prof. Evripidis Gavathiotis\
@@ -13,8 +14,11 @@
 ---
 
 ### Ph.D. Research
-*Purdue University* (Aug 2017 – Aug 2023)\
-West Lafayette, IN
+<div class="job-header">
+  <span><strong>Purdue University</strong></span>
+  <span class="date">Aug 2017 – Aug 2023</span>
+  <br>West Lafayette, IN</br>
+</div>
 
 **Advisors:** Prof. Darci Trader & Prof. Zhong-Yin Zhang\
 **Thesis:** Chemical biology approaches to modulate proteasomal activity.
