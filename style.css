@@ -109,3 +109,23 @@ h2 {
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
   border: 1px solid #eee;
 }
+
+/* --- SOCIAL ICONS STYLING --- */
+.social-icons {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.social-icons a {
+    text-decoration: none; /* Removes the underline */
+    margin-right: 25px;    /* Spacing between icons */
+    font-size: 2rem;       /* Makes them 2x normal text size */
+    color: #444;           /* Dark grey color */
+    transition: all 0.3s ease; /* Smooth animation */
+}
+
+/* Hover Effects */
+.social-icons a:hover {
+    color: var(--primary-color); /* Turns blue on hover */
+    transform: scale(1.2);       /* Grows slightly larger on hover */
+}
