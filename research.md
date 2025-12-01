@@ -3,9 +3,12 @@
 
 ### Postdoctoral Research Fellow
 <div class="job-header">
-  <span><strong>Albert Einstein College of Medicine</strong></span>
-  <span class="date">Oct 2023 – Oct 2024</span>
-  <br>Bronx, NY</br>
+    <div>
+        <span><strong>Albert Einstein College of Medicine</strong></span>
+        <br>Bronx, NY
+    </div>
+    
+    <span class="date">Oct 2023 – Oct 2024</span>
 </div>
 
 **Advisors:** Prof. Ana Maria Cuervo and Prof. Evripidis Gavathiotis\
@@ -26,8 +29,11 @@
 ---
 
 ### Junior Research Fellow
-*Tata Institute of Fundamental Research* (Aug 2016 – Jun 2017)\
-Hyderabad, India
+<div class="job-header">
+  <span><strong>Tata Institute of Fundamental Research, Hyderabad</strong></span>
+  <span class="date">Aug 2016 – Jun 2017</span>
+  <br>Hyderabad, India</br>
+</div>
 
 **Advisor:** Prof. Vipin Agarwal\
 **Project:** Biophysical chemistry of α-synuclein oligomerization/aggregation using solution and solid-phase NMR.
