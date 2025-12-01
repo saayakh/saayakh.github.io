@@ -17,10 +17,11 @@
 
 ### Ph.D. Research
 <div class="job-header">
-  <span><strong>Purdue University</strong></span>
-  <br>West Lafayette, IN
-</div>
-  <span class="date">Aug 2017 – Aug 2023</span>
+    <div>
+      <span><strong>Purdue University</strong></span>
+      <br>West Lafayette, IN
+    </div>
+    <span class="date">Aug 2017 – Aug 2023</span>
 </div>
 
 *Advisors:* Prof. Darci Trader & Prof. Zhong-Yin Zhang\
@@ -30,10 +31,11 @@
 
 ### Junior Research Fellow
 <div class="job-header">
-  <span><strong>Tata Institute of Fundamental Research, Hyderabad</strong></span>
-  <br>Hyderabad, India
-</div>
-  <span class="date">Aug 2016 – Jun 2017</span>
+    <div>
+        <span><strong>Tata Institute of Fundamental Research, Hyderabad</strong></span>
+        <br>Hyderabad, India
+    </div>
+    <span class="date">Aug 2016 – Jun 2017</span>
 </div>
 
 *Advisor:* Prof. Vipin Agarwal\
@@ -46,10 +48,11 @@ Check out our [publication from this project](https://onlinelibrary.wiley.com/do
 ### Master's Thesis Research
 
 <div class="job-header">
-  <span><strong>Indian Institute of Technology, Kanpur</strong></span>
-  <br>Kanpur, India
-</div>
-  <span class="date">2015 - 2016</span>
+    <div>
+        <span><strong>Indian Institute of Technology, Kanpur</strong></span>
+        <br>Kanpur, India
+    </div>
+    <span class="date">2015 - 2016</span>
 </div>
 
 *Advisor:* Prof. R. Ramapanicker\
@@ -60,12 +63,12 @@ Check out our [publication from this project](https://onlinelibrary.wiley.com/do
 ### Summer Research Internship
 
 <div class="job-header">
-  <span><strong>Indian Institute of Technology, Guwahati</strong></span>
-  <br>Guwahati, India
+    <div>
+        <span><strong>Indian Institute of Technology, Guwahati</strong></span>
+        <br>Guwahati, India
+    </div>
+    <span class="date">Summer 2015</span>
 </div>
-  <span class="date">Summer 2015</span>
-</div>
-
 
 *Advisor:* Prof. Bhisma Patel\
 *Project:* Organocatalytic thiocyanation and acylation of oxiranes.
@@ -73,10 +76,11 @@ Check out our [publication from this project](https://onlinelibrary.wiley.com/do
 ---
 
 <div class="job-header">
-  <span><strong>Indian Institute of Technology, Kharagpur</strong></span>
-  <br>Kharagpur, India
-</div>
-  <span class="date">Summer 2014</span>
+    <div>
+        <span><strong>Indian Institute of Technology, Kharagpur</strong></span>
+        <br>Kharagpur, India
+    </div>
+    <span class="date">Summer 2014</span>
 </div>
 
 *Advisor:* Prof. Dipak Mal\
