@@ -7,7 +7,6 @@
         <span><strong>Albert Einstein College of Medicine</strong></span>
         <br>Bronx, NY
     </div>
-    
     <span class="date">Oct 2023 – Oct 2024</span>
 </div>
 
