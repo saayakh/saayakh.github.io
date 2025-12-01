@@ -1,8 +1,11 @@
 # Research Experience
 ---
-### Postdoctoral Research
-*Albert Einstein College of Medicine* (Oct 2023 – Oct 2024)\
-Bronx, NY
+
+### Postdoctoral Research Fellow
+<div class="job-header">
+  <span><strong>Albert Einstein College of Medicine</strong> Bronx, NY</span>
+  <span class="date">Oct 2023 – Oct 2024</span>
+</div>
 
 **Advisors:** Prof. Ana Maria Cuervo and Prof. Evripidis Gavathiotis\
 **Project:** Exploring new pharmacological strategies to rescue chaperone-mediated autophagy in Parkinson’s disease.
