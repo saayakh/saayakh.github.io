@@ -73,8 +73,6 @@ Check out our [publication from this project](https://onlinelibrary.wiley.com/do
 *Advisor:* Prof. Bhisma Patel\
 *Project:* Organocatalytic thiocyanation and acylation of oxiranes.
 
----
-
 <div class="job-header">
     <div>
         <span><strong>Indian Institute of Technology, Kharagpur</strong></span>
