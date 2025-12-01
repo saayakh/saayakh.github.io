@@ -1,3 +1,5 @@
+#### This sections contains books, links, or resources that I have found helpful. This is partly for my own "bookkeeping".
+
 ## Currently Reading
 
 <details>
