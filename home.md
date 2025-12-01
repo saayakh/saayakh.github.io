@@ -14,15 +14,12 @@ Previously, I was a **Postdoctoral Research Fellow** at Albert Einstein College 
     <a href="https://www.linkedin.com/in/saayak-halder/" target="_blank" title="LinkedIn">
         <i class="fab fa-linkedin"></i>
     </a>
-    
     <a href="https://scholar.google.com/citations?user=GRUIgfMAAAAJ&hl=en&inst=5549692440350501774" target="_blank" title="Google Scholar">
         <i class="fas fa-graduation-cap"></i>
     </a>
-    
     <a href="PUT_YOUR_ORCID_URL_HERE" target="_blank" title="ORCID">
         <i class="fab fa-orcid"></i>
     </a>
-    
     <a href="mailto:saayakhalder@gmail.com" title="Email Me">
         <i class="fas fa-envelope"></i>
     </a>
