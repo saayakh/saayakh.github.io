@@ -1,12 +1,11 @@
 ## List of favorite books 
 
 1. ***Classics in Total Synthesis*** book series
-
-   <details>
-      <summary>An insane...</summary>
+<details>
+  <summary>Why I love this book</summary>
   An insane amount of total synthesis and methodology lessons packed into these book series.
-   </details>
-
+</details>
+   
 2. Albert's Cell and Molecular Biology\
    A classic introductory, but comprehensive, book on fundamentals of cell and molecular biology.
    
