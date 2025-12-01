@@ -1,8 +1,8 @@
 ## List of favorite books 
 
-1. ***Classics in Total Synthesis*** book series
 <details>
-  <summary>An insane amount of...</summary>
+  <summary>1. ***Classics in Total Synthesis*** book series
+</summary>
   An insane amount of total synthesis and methodology lessons packed into these book series.
 </details>
    
