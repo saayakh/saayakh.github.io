@@ -1,4 +1,4 @@
-This sections contains books, links, or resources that I have found helpful. I this mostly for my own "bookkeeping".
+This sections contains books, links, or resources that I have found helpful. This is partly for my own "bookkeeping".
 
 ## Medicinal Chemistry
 1. [Njardarson group's posters](https://sites.arizona.edu/njardarson-lab/top200-posters/)
