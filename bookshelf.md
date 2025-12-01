@@ -2,19 +2,19 @@
 
 1. ***Classics in Total Synthesis*** book series
 <details>
-  <summary></summary>
+  <summary>An insane amount of...</summary>
   An insane amount of total synthesis and methodology lessons packed into these book series.
 </details>
    
 2. Albert's ***Molecular Biology of the Cell***
 <details>
-  <summary>Why I love this book</summary>
+  <summary>A classic introductory...</summary>
   A classic introductory, but comprehensive, book on fundamentals of cell and molecular biology.
 </details>
    
 3. [*Nestler's Molecular Neuropharmacology*](https://www.google.com/books/edition/Molecular_Neuropharmacology/YYUMZDeQNV4C?hl=en)
 <details>
-  <summary></summary>
+  <summary>A really comprehensive...</summary>
   A really comprehensive textbook/reference on neurophamacology by Prof. Eric Nestler. The book, however, requires a basic understanding of cell and molecular biology, as well as pharmacology.
 </details>
    
