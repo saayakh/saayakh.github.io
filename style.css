@@ -120,7 +120,7 @@ h2 {
     text-decoration: none; /* Removes the underline */
     margin-right: 25px;    /* Spacing between icons */
     font-size: 2rem;       /* Makes them 2x normal text size */
-    color: #444;           /* Dark grey color */
+    color: #4285F4;
     transition: all 0.3s ease; /* Smooth animation */
 }
 
