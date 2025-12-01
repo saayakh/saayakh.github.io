@@ -1,7 +1,7 @@
 /* GLOBAL SETTINGS */
 :root {
     /* You can change this color code later to your favorite color */
-    --primary-color: #000066; 
+    --primary-color: #007acc; 
     --text-dark: #333;
     --bg-light: #fff;
     --nav-bg: #2C2C2C;
@@ -183,7 +183,7 @@ details {
 summary {
     cursor: pointer;
     font-weight: bold;
-    color: #202020;
+    color: var(--text-dark);
     list-style: none; /* Hides default triangle in some browsers */
     display: flex;
     align-items: center;
