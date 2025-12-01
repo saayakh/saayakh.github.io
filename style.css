@@ -129,3 +129,40 @@ h2 {
     color: var(--primary-color); /* Turns blue on hover */
     transform: scale(1.2);       /* Grows slightly larger on hover */
 }
+
+/* --- TOP RIGHT HEADER ICONS --- */
+
+/* 1. Make the header a reference point for positioning */
+header {
+    position: relative; 
+}
+
+/* 2. Pin the icons to the top right */
+.header-icons {
+    position: absolute;
+    top: 25px;
+    right: 30px;
+}
+
+/* 3. Style the icons (White and subtle) */
+.header-icons a {
+    color: rgba(255, 255, 255, 0.7); /* Slightly transparent white */
+    margin-left: 15px;               /* Space between icons */
+    font-size: 1.5rem;               /* Size of the icon */
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.header-icons a:hover {
+    color: #fff; /* Bright white on hover */
+    transform: scale(1.1);
+}
+
+/* 4. MOBILE LAYOUT: On phones, un-pin them so they don't cover your name */
+@media (max-width: 700px) {
+    .header-icons {
+        position: static;    /* Stop being absolute */
+        display: block;      /* Sit on its own line */
+        margin-bottom: 10px; /* Space below icons */
+    }
+}
