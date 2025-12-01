@@ -166,3 +166,50 @@ header {
         margin-bottom: 10px; /* Space below icons */
     }
 }
+
+/* --- COLLAPSIBLE SECTIONS (ACCORDIONS) --- */
+
+/* The container box */
+details {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
+}
+
+/* The clickable title */
+summary {
+    cursor: pointer;
+    font-weight: bold;
+    color: var(--primary-color);
+    list-style: none; /* Hides default triangle in some browsers */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Add a custom arrow icon using CSS */
+summary::after {
+    content: '+'; 
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #666;
+}
+
+/* Change style when open */
+details[open] {
+    background-color: #fff; /* White background when open */
+    border-color: var(--primary-color); /* Blue border when open */
+}
+
+details[open] summary {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+
+details[open] summary::after {
+    content: '-'; /* Change plus to minus */
+}
