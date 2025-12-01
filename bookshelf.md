@@ -1,4 +1,6 @@
-#### This sections contains books, links, or resources that I have found helpful. This is partly for my own "bookkeeping".
+This sections contains books that I am currently reading or have read, and have found helpful. This is partly for my own "bookkeeping".
+
+---
 
 ## Currently Reading
 
