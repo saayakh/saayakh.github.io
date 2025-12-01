@@ -1,10 +1,10 @@
 /* GLOBAL SETTINGS */
 :root {
     --primary-color: #7a9abf;       /* Low-chroma blue accent */
-    --text-dark: #2c2c2c;           /* Softer black */
+    --text-dark: #3f3f3f;           /* Softer black */
     --text-muted: #5f5f5f;          /* Optional for subtitles */
     --bg-light: #f3f3f1;            /* Warm near-white */
-    --nav-bg: #505255;              /* Gentle slate gray header background */
+    --nav-bg: #3f3f3f;              /* Header background */
     --nav-text: #e6e6e6;            /* Soft white (not pure white) */
     --accent-gold: #b4a27d;         /* Optional muted gold */
 }
