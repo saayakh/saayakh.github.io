@@ -4,11 +4,7 @@ I am a Ph.D. chemist with postdoctoral training and extensive experience in **or
 
 Previously, I was a **Postdoctoral Research Fellow** at Albert Einstein College of Medicine (Bronx, NY) and a **Graduate Research Assistant** at Purdue University.
 
-### Contact
-
-**Saayak Halder, Ph.D.**
-
----
+##
 
 <div class="social-icons">
     <a href="https://www.linkedin.com/in/saayak-halder/" target="_blank" title="LinkedIn">
