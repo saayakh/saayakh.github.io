@@ -36,6 +36,18 @@ This sections contains books that I am currently reading or have read, and have 
 
 ### Other Books
 
+<details>
+  <summary>4. Startup Briefs
+</summary>
+  A great "big picture" text about the intricacies of enterpreneurship.
+</details>
+
+
+<details>
+  <summary>3. A Brief History of Time
+</summary>
+  One of the most popular "popular science" books by Prof. Stephen Hawking.
+</details>
 
 <details>
   <summary>2. Gitanjali (Song Offerings)
