@@ -34,7 +34,7 @@ This sections contains books that I am currently reading or have read, and have 
   An insane amount of total synthesis and methodology lessons packed into these book series.
 </details>
 
-### Other Books
+### Other Books/Works
 ---
 <details>
   <summary>6. The Prophet by Kahlil Gibran</summary>
