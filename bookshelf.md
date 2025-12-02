@@ -38,7 +38,7 @@ This sections contains books that I am currently reading or have read, and have 
 ---
 <details>
   <summary>6. The Prophet by Kahlil Gibran</summary>
-  Kahlil Gibran was a Lebaneese-American philosopher and poet (and artist). His works have endeavored a subtle syncretism rare in that era. I read several books in high school, and I was, perhaps, too young to appreciate his works then, but I learnt a great deal of prosody from his writings.
+  Kahlil Gibran was a Lebaneese-American philosopher and poet (and artist). His works have endeavored a subtle syncretism rare in that era. I read several of his books while in high school; I was, perhaps, too young to appreciate some of his works then, but I learnt a great deal of prosody from his writings.
 </details>
 
 <details>
