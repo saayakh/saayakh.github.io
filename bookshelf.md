@@ -65,7 +65,7 @@ Siddhartha listened. He was now listening intently, completely absorbed, quite e
 <details>
   <summary>4. Startup Briefs
 </summary>
-  A great "big picture" text about the intricacies of enterpreneurship.
+  A short but great "big picture" text about the intricacies of enterpreneurship by Babs Carryer.
 </details>
 
 
