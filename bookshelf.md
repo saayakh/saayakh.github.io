@@ -1,4 +1,4 @@
-This sections contains books that I am currently reading or have read, and have found helpful. This is partly for my own "bookkeeping".
+This sections contains books that I am currently reading or have read, and have found helpful/interesting. This is partly for my own "bookkeeping". These books haven't been organized in any priority order or genre (yet). Hopefully, someday I will sort them into genres.
 
 ---
 
@@ -35,6 +35,11 @@ This sections contains books that I am currently reading or have read, and have 
 </details>
 
 ### Other Books
+---
+<details>
+  <summary>6. The Prophet by Kahlil Gibran</summary>
+  Kahlil Gibran was a Lebaneese-American philosopher and poet (and artist). His works have endeavored a subtle syncretism rare in that era. I read several books in high school, and I was, perhaps, too young to appreciate his works then, but I learnt a great deal of prosody from his writings.
+</details>
 
 <details>
   <summary>5. Siddhartha</summary>
