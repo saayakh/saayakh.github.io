@@ -36,11 +36,17 @@ This sections contains books that I am currently reading or have read, and have 
 
 ### Other Books/Works
 ---
+
 <details>
-  <summary>6. **Srikanta** by Sarat Chandra Chattapadhyay</summary>
-  Kahlil Gibran was a Lebaneese-American philosopher and poet (and artist). His works have endeavored a subtle syncretism rare in that era. I read several of his books while in high school; I was, perhaps, too young to appreciate some of his works then, but I learnt a great deal of prosody from his writings.
+  <summary>7. India 2020</summary>
+  Written by A. P. J. Abdul Kalam  and Y. S. Rajan in 1998 (before Kalam became India's president), this non-fiction book described their vision for India's future. Kalam was, perhaps, a misfit in many ways- born into a poor family, pursued his entire education in India, co-developed India's defense system, and became the 11th President of India.
 </details>
 
+
+<details>
+  <summary>7. Srikanta by Sarat Chandra Chattapadhyay</summary>
+  One of the handful of authors whose works I have extensively read, Sarat Chandra weaved the intricacies of everyday life, joy, and sorrows into ashtonishingly moving yet simple stories and novels. He worked as a petty clerk, and produced some of the most celebrated Bengali literature of that time.
+</details>
 
 <details>
   <summary>6. The Prophet by Kahlil Gibran</summary>
