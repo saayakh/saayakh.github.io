@@ -34,14 +34,25 @@ This sections contains books that I am currently reading or have read, and have 
   An insane amount of total synthesis and methodology lessons packed into these book series.
 </details>
 
-### Other Books/Works
+### Other Books/Works 
 ---
-
+I read most of the following works while in high school (~17 yrs ish).
 <details>
-  <summary>7. India 2020</summary>
-  Written by A. P. J. Abdul Kalam  and Y. S. Rajan in 1998 (before Kalam became India's president), this non-fiction book described their vision for India's future. Kalam was, perhaps, a misfit in many ways- born into a poor family, pursued his entire education in India, co-developed India's defense system, and became the 11th President of India.
-</details>
+  <summary>7. "The night train at Deoli and other stories" by Ruskin Bond</summary>
+  Everything about Ruskin Bond is so elegantly simple- his stories, his storytelling, as well as the contents; yet his writing reminds us that it is the simple things in life that can be so enthralling.
+  This book is a collection of short stories. These few lines from "The Night Train at Deoli"-
+  "...She did not go down the length of the train selling baskets, but came straight to the tea stall; her dark eyes were suddenly filled with light. We said nothing for some time but we couldn’t have been more eloquent."
 
+  "...Somehow, I couldn’t bring myself to break journey at Deoli and spend a day there. (If it was all fiction or a film, I reflected, I would have got down and cleaned up the mystery and reached a suitable ending for the whole thing). I think I was afraid to do this. I was afraid of discovering what really happened to the girl. Perhaps she was no longer in Deoli, perhaps she was married, perhaps she had fallen ill …
+In the last few years I have passed through Deoli many times, and I always look out of the carriage window, half expecting to see the same unchanged face smiling up at me. I wonder what happens in Deoli, behind the station walls. But I will never break my journey there. It may spoil my game. I prefer to keep hoping and dreaming, and looking out of the window up and down that lonely platform, waiting for the girl with the baskets.
+I never break my journey at Deoli, but I pass through as often as I can."
+
+This is what I love about Ruskin Bond- human beings experience a spectrum of fleeting emotions- some of which are, perhaps, incomprehensible even to ourselves. He doesn't invoke any complex wordings or plots- yet pens them down so subtly.
+On another note, this story also reminds me of some words and cpncepts from The Dictionary of Obscure Sorrows-
+Dès Vu: The Awareness That This Moment Will Become a Memory
+
+Onism: The Awareness of How Little of the World You’ll Experience
+</details>
 
 <details>
   <summary>7. Srikanta by Sarat Chandra Chattapadhyay</summary>
