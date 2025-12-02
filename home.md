@@ -2,7 +2,7 @@
 
 I am a Ph.D. chemist with postdoctoral training and extensive experience in **organic chemistry, medicinal chemistry, pharmacology, chemical biology, and drug discovery**. 
 
-Previously, I was a **Postdoctoral Research Fellow** at Albert Einstein College of Medicine (Bronx, NY) and a **Graduate Research Assistant** at Purdue University.
+Previously, I was a Postdoctoral Research Fellow at *Albert Einstein College of Medicine* in NY and a Ph.D. student at *Purdue University*, IN.
 
 
 ## Education
