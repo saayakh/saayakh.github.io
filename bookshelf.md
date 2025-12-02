@@ -37,6 +37,15 @@ This sections contains books that I am currently reading or have read, and have 
 ### Other Books
 
 <details>
+  <summary>5. Siddhartha</summary>
+  Written by German author Hermann Hesse, this novel weaves a imaginative and tranquil discourse about the life of an ascetic, contemporary to Gautama Buddha. I read this book while I was 17 ish years old. There is this excerpt that still enthralls me-
+
+"The many-voiced song of the river echoed softly...
+
+Siddhartha listened. He was now listening intently, completely absorbed, quite empty, taking in everything. He felt that he had now completely learned the art of listening. He'd often heard all this before, all these numerous voices in the river, but today they sounded different. He could no longer distinguish the different voices--the merry voice from the weeping voice, the childish voice from the manly voice. The all belonged to each other: the lament of those who yearn, the laughter of the wise, the cry of indignation and the groan of the dying. They're all interwoven and interlocked, entwined in a thousand ways. And all the voices, all the goals, all the yearnings, all the sorrows, all the pleasures, all the good and evil, all of them together was the world. All of them together was the stream of events, the music of life."
+</details>
+
+<details>
   <summary>4. Startup Briefs
 </summary>
   A great "big picture" text about the intricacies of enterpreneurship.
