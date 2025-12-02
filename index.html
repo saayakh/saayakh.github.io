@@ -3,11 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="description" content="Saayak Halder, Ph.D. - Medicinal Chemistry, Pharmacology, and Chemical Biology Portfolio.">
+    <meta property="og:title" content="Saayak Halder, Ph.D. | Home">
+    <meta property="og:description" content="Ph.D. chemist with expertise in organic chemistry, medicinal chemistry, pharmacology, and drug discovery.">
+    <meta property="og:type" content="website">
+    
     <title>Saayak Halder, Ph.D. | Home</title>
     
     <link rel="stylesheet" href="style.css">
-    
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
@@ -23,29 +27,49 @@
     </header>
 
     <main class="container">
-        <div id="markdown-content" class="card">
-            Loading profile...
+        <div class="card">
+            
+            <h2>About Me</h2>
+            <p>
+                I am a Ph.D. chemist with postdoctoral training and extensive experience in 
+                <strong>organic chemistry, medicinal chemistry, pharmacology, chemical biology, and drug discovery</strong>.
+            </p>
+            <p>
+                Previously, I was a Postdoctoral Research Fellow at <em>Albert Einstein College of Medicine</em> in NY and a Ph.D. student at <em>Purdue University</em>, IN.
+            </p>
+
+            <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
+
+            <h2>Education</h2>
+
+            <div class="education-entry">
+                <p>
+                    <strong>Ph.D. in Chemistry (2023)</strong><br>
+                    Purdue University, West Lafayette, IN<br>
+                    <em>Thesis: Chemical biology approaches to modulate proteasomal activity.</em>
+                </p>
+            </div>
+            
+            <br>
+
+            <div class="education-entry">
+                <p>
+                    <strong>M.Sc. in Chemistry (2016)</strong><br>
+                    Indian Institute of Technology Kanpur, India
+                </p>
+            </div>
+
+            <br>
+
+            <div class="education-entry">
+                <p>
+                    <strong>B.Sc. in Chemistry (2014)</strong><br>
+                    Ramakrishna Mission Vidyamandira, Belur, WB, India
+                </p>
+            </div>
+
         </div>
     </main>
-
-    <script>
-        // This script fetches your 'home.md' file
-        fetch('home.md')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error("HTTP error " + response.status);
-                }
-                return response.text();
-            })
-            .then(text => {
-                // Converts the Markdown text into HTML and puts it on the page
-                document.getElementById('markdown-content').innerHTML = marked.parse(text);
-            })
-            .catch(error => {
-                document.getElementById('markdown-content').innerHTML = 
-                "<p>Error loading profile. Please ensure <b>home.md</b> exists in your repository.</p>";
-            });
-    </script>
 
 </body>
 </html>
