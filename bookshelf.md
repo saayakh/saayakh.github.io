@@ -42,7 +42,7 @@ This sections contains books that I am currently reading or have read, and have 
 </details>
 
 <details>
-  <summary><strong>5. Siddhartha </strong>by Hermann Hesse</summary>
+  <summary><strong>5. Siddhartha</strong>by Hermann Hesse</summary>
   Written by German author Hermann Hesse, this novel weaves a imaginative and tranquil discourse about the life of an ascetic, contemporary to Gautama Buddha. I read this book while I was 17 ish years old. There is this excerpt that still enthralls me-
 
 "The many-voiced song of the river echoed softly...
