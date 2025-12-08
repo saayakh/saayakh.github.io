@@ -22,28 +22,54 @@
 
     <main class="container">
         <section class="card">
-            <div id="markdown-content">Loading bookshelf...</div>
+                <p> This sections contains a curated list of books, links, or resources that I have found helpful. This is partly for my own "bookkeeping".
+		</p>
+		<p> This is a curation in progress (and so, not exhaustive).
+		</p>
+
+            <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
+
+            <h2>Academic and Scientific Writing</h2>
+            <ul style="line-height: 1.8;">
+                <li>
+                    <strong><a href="https://owl.purdue.edu/owl/index.html" target="_blank">Purdue OWL</a></strong><br>
+                    The gold standard for academic writing styles, citation management, and grammar.
+                </li>
+            </ul>
+
+	<h2>Critical Thinking</h2>
+		<li>
+                    <strong><a href="https://math.hawaii.edu/home/pdf/putnam/PolyaHowToSolveIt.pdf" target="_blank">How to Solve It (G. Pólya)</a></strong><br>
+                    A timeless book on heuristics, mathematical thinking, and mathematical problem solving by G. Poyla. Check the Wiki article-
+
+                 (<a href="https://en.wikipedia.org/wiki/How_to_Solve_It" target="_blank">Link to Wiki Article</a>)
+                </li>
+
+
+            <h2>Medicinal Chemistry</h2>
+            <ul style="line-height: 1.8;">
+                <li>
+                    <strong><a href="https://sites.arizona.edu/njardarson-lab/top200-posters/" target="_blank">Njardarson Group's Posters</a></strong><br>
+                    Visual summaries of the top selling drugs and their chemical structures, and more.
+                </li>
+            </ul>
+
+            <h2>A list of Useful Technical Tools</h2>
+            <ul style="line-height: 1.8;">
+                <li>
+                    <strong><a href="https://obsidian.md/" target="_blank">Obsidian</a></strong><br>
+                    A knowledge base that works on top of a local folder of plain text Markdown files. Excellent for connecting ideas.
+                </li>
+                <li>
+                    <strong><a href="https://inkscape.org/" target="_blank">Inkscape</a></strong><br>
+                    A professional, free, and open-source vector graphics editor.
+                </li>
+            </ul>
+
         </section>
     </main>
 
     <script src="nav.js"></script>
-
-    <script>
-        fetch('useful_links.md')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error("HTTP error " + response.status);
-                }
-                return response.text();
-            })
-            .then(text => {
-                document.getElementById('markdown-content').innerHTML = marked.parse(text);
-            })
-            .catch(error => {
-                document.getElementById('markdown-content').innerHTML = 
-                "<p>Error loading bookshelf. Please ensure 'bookshelf.md' exists.</p>";
-            });
-    </script>
 
 </body>
 </html>
