@@ -3,31 +3,125 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="description" content="Research Experience of Saayak Halder, Ph.D. - Postdoctoral and Graduate work in Chemical Biology.">
+    <meta property="og:title" content="Research | Saayak Halder, Ph.D.">
+    
     <title>Research | Saayak Halder, Ph.D.</title>
     <link rel="stylesheet" href="style.css">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
     <header>
         <h1>Saayak Halder, Ph.D.</h1>
+        <!-- Subtitle handled by nav.js or hardcoded -->
         <p class="subtitle">Medicinal Chemistry | Pharmacology | Chemical Biology</p>
         <nav></nav>
-
-<script src="nav.js"></script>
     </header>
-  <main class="container">
-    <section class="card">
-        <div id="markdown-content">Loading research...</div>
-    </section>
-</main>
 
-    <script>
-        fetch('research.md')
-            .then(response => response.text())
-            .then(text => {
-                document.getElementById('markdown-content').innerHTML = marked.parse(text);
-            });
-    </script>
+    <main class="container">
+        <section class="card">
+            <h2>Research Experience</h2>
+
+            <!-- JOB 1 -->
+            <h3>Postdoctoral Research Fellow</h3>
+            <div class="job-header">
+                <div>
+                    <span><strong>Albert Einstein College of Medicine</strong></span>
+                    <br>Bronx, NY
+                </div>
+                <span class="date">Oct 2023 – Oct 2024</span>
+            </div>
+            <p>
+                <em>Advisor(s):</em> Prof. Ana Maria Cuervo and Prof. Evripidis Gavathiotis<br>
+                <em>Research:</em> Exploring new pharmacological strategies to rescue chaperone-mediated autophagy in Parkinson’s disease.
+            </p>
+
+            <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
+
+            <!-- JOB 2 -->
+            <h3>Ph.D. Research</h3>
+            <div class="job-header">
+                <div>
+                  <span><strong>Purdue University</strong></span>
+                  <br>West Lafayette, IN
+                </div>
+                <span class="date">Aug 2017 – Aug 2023</span>
+            </div>
+            <p>
+                <em>Advisors:</em> Prof. Darci Trader & Prof. Zhong-Yin Zhang<br>
+                <em>Thesis:</em> Chemical biology approaches to modulate proteasomal activity.
+            </p>
+
+            <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
+
+            <!-- JOB 3 -->
+            <h3>Junior Research Fellow</h3>
+            <div class="job-header">
+                <div>
+                    <span><strong>Tata Institute of Fundamental Research, Hyderabad</strong></span>
+                    <br>Hyderabad, India
+                </div>
+                <span class="date">Aug 2016 – Jun 2017</span>
+            </div>
+            <p>
+                <em>Advisor:</em> Prof. Vipin Agarwal<br>
+                <em>Project:</em> Biophysical chemistry of α-synuclein oligomerization/aggregation using solution and solid-phase NMR.
+            </p>
+            <p>
+                Check out our <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201711854" target="_blank">publication from this project</a>.
+            </p>
+
+            <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
+
+            <!-- JOB 4 -->
+            <h3>Master's Thesis Research</h3>
+            <div class="job-header">
+                <div>
+                    <span><strong>Indian Institute of Technology, Kanpur</strong></span>
+                    <br>Kanpur, India
+                </div>
+                <span class="date">2015 - 2016</span>
+            </div>
+            <p>
+                <em>Advisor:</em> Prof. R. Ramapanicker<br>
+                <em>Thesis:</em> Diastereoselective total synthesis of Castanospermine derivatives using proline-catalyzed asymmetric amination of aldehydes.
+            </p>
+
+            <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
+
+            <!-- JOB 5 -->
+            <h3>Summer Research Internship</h3>
+            
+            <div class="job-header">
+                <div>
+                    <span><strong>Indian Institute of Technology, Guwahati</strong></span>
+                    <br>Guwahati, India
+                </div>
+                <span class="date">Summer 2015</span>
+            </div>
+            <p>
+                <em>Advisor:</em> Prof. Bhisma Patel<br>
+                <em>Project:</em> Organocatalytic thiocyanation and acylation of oxiranes.
+            </p>
+
+            <br> <!-- Spacing between internships -->
+
+            <div class="job-header">
+                <div>
+                    <span><strong>Indian Institute of Technology, Kharagpur</strong></span>
+                    <br>Kharagpur, India
+                </div>
+                <span class="date">Summer 2014</span>
+            </div>
+            <p>
+                <em>Advisor:</em> Prof. Dipak Mal<br>
+                <em>Project:</em> Exploring new methods for the synthesis of thiophthalides.
+            </p>
+
+        </section>
+    </main>
+
+    <script src="nav.js"></script>
 </body>
 </html>
