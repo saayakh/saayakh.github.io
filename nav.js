@@ -5,7 +5,7 @@ function generateNav() {
         <a href="research.html">Research</a>
         <a href="publications.html">Publications</a>
         <a href="bookshelf.html">Bookshelf</a>
-        <a href="useful_links.html">Useful Links</a>
+        <a href="useful_links.html">Resources</a>
     `;
 
     const navElement = document.querySelector('nav');
